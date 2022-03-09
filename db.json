@@ -1210,6 +1210,13 @@
       "climate": "cold",
       "terrain": "rocky",
       "population": "1"
+    },
+    {
+      "name": "buddy",
+      "climate": "temperate",
+      "terrain": "jungle",
+      "population": "1",
+      "id": 61
     }
   ]
 }
